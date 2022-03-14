@@ -1,6 +1,6 @@
 # Time & Seasonality Features in Time Series
 
-Time and seasonality features are often assumed in time series analysis, ignoring their crucial role as an input in model calibration. The optimal form of seasonality effects should be part of the model-building process, and not simply taken for granted, especially for phenomenon that are outside the natural world.
+Time and seasonality features are often assumed in time series analysis, ignoring their crucial role as an input in model calibration. The optimal form of seasonality effects should be part of the model-building process, and not simply taken for granted, especially for phenomenon that are outside of the natural world.
 
 The study investigates the comparative performance of utilizing cyclic sine and cosine seasonality features for hour and month, versus using seasonality dummies and numeric variables. Six popular machine learning models are evaluated in terms of their performance with regards to the various seasonality features, namely Lasso Regression, Ridge Regression, Random Forest, Xtreme Gradient Boost, Support Vector Machine and Multi-Layer Perceptron. 
 
