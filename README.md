@@ -6,4 +6,4 @@ The study investigates the comparative performance of utilizing sine and cosine 
 
 The conclusion of the study is that we should be data-focused, and not assume that any particular time/seasonality feature choice is always optimal, unless there is solid domain knowledge indicating a particular choice. Nonetheless, there are certain rules of thumb if one needs to undertake a quick-and-dirty initial analysis. Tree-based models tend to perform well with numeric seasonality features. Linear models meanwhile tend to perform well with dummy seasonality variables.
 
-These files contain the data and Python code used for the article published in: https://towardsdatascience.com/time-seasonality-features-in-time-series-7e8236f7b04a?sk=4b3d3f6c4056d12ba002fab887b55400
+These files contain the data and Python code used for the article published in: https://medium.com/data-science/time-seasonality-features-in-time-series-7e8236f7b04a
